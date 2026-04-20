@@ -1,6 +1,8 @@
-﻿vk@vk-lapi:~/StudioProjects/notes/android/app$ keytool -genkey -v -keystore notes-keystore.jks -keyalg RSA -keysize 2048 -validity 10000 -alias upload
+C:\Users\vkdon\AndroidStudioProjects\notes>keytool -genkey -v -keystore notes-keystore.jks -keyalg RSA -keysize 2048 -validity 10000 -alias upload
 Enter keystore password:  
-Re-enter new password: 
+
+Re-enter new password: VkMaster*08
+
 What is your first and last name?
   [Unknown]:  Vaibhav
 What is the name of your organizational unit?
