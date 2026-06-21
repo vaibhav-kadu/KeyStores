@@ -1,5 +1,7 @@
 C:\Users\vkdon\AndroidStudioProjects\notes>keytool -genkey -v -keystore notes-keystore.jks -keyalg RSA -keysize 2048 -validity 10000 -alias upload
-Enter keystore password:  
+Enter keystore password:  VkMaster*08
+
+Alise=> upload
 
 Re-enter new password: VkMaster*08
 
